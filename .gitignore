@@ -1,0 +1,8 @@
+venv/
+myenv/
+__pycache__/
+data/
+*.npy
+*.index
+*.json
+IDS_Project.pdf

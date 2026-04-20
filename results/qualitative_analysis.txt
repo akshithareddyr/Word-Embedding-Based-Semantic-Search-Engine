@@ -1,0 +1,38 @@
+======================================================================
+QUALITATIVE ANALYSIS: BM25 vs ExactSearch (top-5)
+======================================================================
+
+>>> Cases where ExactSearch finds relevant doc but BM25 misses (293 total)
+
+  Query : why do nails get rusty
+  Found : A: Nails rust in water because water allows the iron to react with any oxygen present, which forms iron oxide, known as rust. In order to cause rust quickly, there must be some impurities in the water...
+
+  Query : nyu tuition cost
+  Found : tuition for new york university is $ 43746 for the 2014 2015 academic year this is 73 % more expensive than the national average private non profit four year college tuition of $ 25240he net out of po...
+
+  Query : at what age do kids start to hold memories
+  Found : Childhood amnesia, also called infantile amnesia, is the inability of adults to retrieve episodic memories before the age of 2–4 years, as well as the period before age 10 of which adults retain fewer...
+
+  Query : average teeth brushing time
+  Found : On average, Americans brush for just under the two minutes recommended by dental professionals. African Americans brush 18 seconds longer than Americans as a whole, while younger adults ages 18 to 24 ...
+
+  Query : what is ce certified
+  Found : The CE marking is the manufacturer's declaration that the product meets the requirements of the applicable EC directives. Officially, CE is an abbreviation of Conformite Conformité, europeenne Europée...
+
+
+>>> Cases where BM25 finds relevant doc but ExactSearch misses (71 total)
+
+  Query : is the bachelor legal
+  Found : The coursework of a bachelor degree in legal studies revolves around the legal system and law. The curriculum entails subjects that emphasize legal research, law in the social context, analytical thin...
+
+  Query : what dba mean
+  Found : What Does DBA Mean? Share Doing business as (DBA) is a term that is used in today’s business industry in regards to the liability and formal actions that are taken by a particular company. Doing busin...
+
+  Query : what disability is copd
+  Found : Chronic Obstructive Pulmonary Disease and Social Security Disability COPD, or chronic obstructive pulmonary disease is a series of lung diseases that damages your lungs, blocking airflow and affecting...
+
+  Query : what does folic acid do
+  Found : Folic acid is the synthetic form of B9, found in supplements and fortified foods, while folate occurs naturally in foods. All the B vitamins are water-soluble, meaning the body does not store them. Fo...
+
+  Query : temperature to bake sweet potatoes in oven
+  Found : 1 Prick your sweet potatoes each 2-3 time with a fork, then place them directly on the oven rack in the middle of the oven, above the rack with the foil. Turn the oven on to 425.  Bake for 45 minutes ...
