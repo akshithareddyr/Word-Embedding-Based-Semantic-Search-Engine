@@ -1,16 +1,5 @@
 # Word Embedding-Based Semantic Search Engine
 
-**Team Members**
-| Name | Email |
-|---|---|
-| Reddybathuni Venkat | reddybathuni.venkat@iitgn.ac.in |
-| Gangannagudem Siri | gangannagudem.siri@iitgn.ac.in |
-| Sri Jahnavi | srijahnavi.chinthalapudi@iitgn.ac.in |
-| Vishal Pal | vishal.pal@iitgn.ac.in |
-
-*IIT Gandhinagar, Gandhinagar, India*
-
----
 
 ## Abstract
 
