@@ -2,9 +2,6 @@
 
 A semantic search system that retrieves relevant documents using dense vector embeddings and Approximate Nearest Neighbor (ANN) indexing, benchmarked against traditional keyword-based search on the MS MARCO dataset.
 
-**IIT Gandhinagar — Introduction to Data Science Project**
-> Reddybathuni Venkat · Gangannagudem Siri · Sri Jahnavi · Vishal Pal
-
 ---
 
 ## Overview
